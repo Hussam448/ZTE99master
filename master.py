@@ -25,7 +25,7 @@ except ImportError:
 	print '(o o)'.center(44)
 	print 'ooO--(_)--Ooo'.center(44)
 	print W + ' '
-	print ('O S I F').center(44)
+	print ('M A S T E R').center(44)
 	print ' '
 	print "[!] Can't import module 'requests'\n"
 	sys.exit()
@@ -62,8 +62,8 @@ def baliho():
 		print '(o o)'.center(44)
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
-		print ('O S I F').center(44)
-		print (W + '     [' + G +'Open Source Information Facebook'+ W + ']')
+		print ('M A S T E R').center(44)
+		print (W + '     [' + G +'FACEBOOK ZTE TEAM TOOL'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
@@ -73,14 +73,14 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Debby Anggraini 'CiKu370'
-    Name       OSIF 'Open Source Information Facebook'
-    CodeName   D3b2y
+    Author     Debby Anggraini 'HUSSAM'
+    Name       MASTER 'FACEBOOK ZTE TEAM TOOL'
+    CodeName   master
     version    full version
     Date       16/05/2018 09:35:12
-    Team       Blackhole Security
-    Email      xnver404@gmail.com
-    Telegram   @CiKu370
+    Team       ZTE 99
+    Email      ZTEMASTER@gmail.com
+    Telegram   @m499_gang
 
 * if you find any errors or problems , please contact
   author
