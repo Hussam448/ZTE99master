@@ -77,7 +77,7 @@ def show_program():
     Name       MASTER 'FACEBOOK ZTE TEAM TOOL'
     CodeName   master
     version    full version
-    Date       16/05/2018 09:35:12
+    Date       16/05/2020 09:35:12
     Team       ZTE 99
     Email      ZTEMASTER@gmail.com
     Telegram   @m499_gang
